@@ -1,0 +1,6 @@
+﻿  Assembling main.asm...
+main.asm(35): error A2008: syntax error : in instruction
+main.asm(36): error A2076: jump destination must specify a label
+main.asm(40): error A2006: undefined symbol : validar
+main.asm(46): error A2006: undefined symbol : validarNum
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" salió con el código 1.
