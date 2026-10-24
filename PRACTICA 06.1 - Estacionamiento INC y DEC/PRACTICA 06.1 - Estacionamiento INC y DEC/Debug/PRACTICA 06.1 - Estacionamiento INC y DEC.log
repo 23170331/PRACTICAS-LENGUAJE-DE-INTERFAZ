@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(52): error A2008: syntax error : in instruction
+main.asm(37): error A2006: undefined symbol : msgAttempts
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" salió con el código 1.
